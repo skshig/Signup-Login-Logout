@@ -1,0 +1,11 @@
+This mini project is about local storage 
+How local storage of browser stores data and what data.
+
+Somehow store the info  that a person has logged in.
+Person should be logged in even after closing browser or laptop.
+
+Solution:
+1) make a login function
+2) Access the values from inputs from login function
+    console.log("email entered: ", my_email);
+    console.log("password entered: ", my_pass); //this consoles the input by user
